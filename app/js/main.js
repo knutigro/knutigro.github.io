@@ -11,7 +11,7 @@
 //
 // Analytics
 var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-62792522-1']);
+_gaq.push(['_setAccount', 'UA-62792522-2']);
 _gaq.push(['_trackPageview']);
 
 (function() {
