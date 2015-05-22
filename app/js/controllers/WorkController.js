@@ -34,9 +34,9 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
         content:
         [{
             name:"App Reviews",
-            url:"http://www.cocmoc.com/app/images/appreviews-icon-512.png",
-            description:"App Reviews easily collects reviews and ratings for your favourite apps. Super simple for iphone app developers to keep track of new reviews! App Reviews stay in your statusbar and once you get a new review you get notified.",
-            image:"http://www.cocmoc.com/app/images/appreviews-icon-512.png"
+            url:"http://knutigro.github.io/apps/app-reviews",
+            description:"App Reviews easily collects reviews and ratings for your favourite apps. Super simple for iphone app developers to keep track of new reviews! App Reviews stay in your statusbar and once you get a new review you get notified. App Reviews is Open Source.",
+            image:"http://knutigro.github.io/apps/app-reviews/Images/appreviews-icon-512.png"
 
         }]
     },{
