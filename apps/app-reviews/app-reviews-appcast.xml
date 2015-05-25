@@ -2,33 +2,30 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>App Reviews Changelog</title>
-    <link>http://sparkle-project.org/files/sparkletestcast.xml</link>
+    <link>http://knutigro.github.io/apps/app-reviews/app-reviews-appcast.xml</link>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
+    
       <item>
         <title>Version 0.0.2</title>
         <description>
           <![CDATA[
             <ul>
-              <li>Auto updating</li>
+              <li>Sparkle added for updating</li>
+              <li>Sharing option added to toolbar</li>
             </ul>
           ]]>
         </description>
-        <pubDate>Fri, 23 May 2015 23:20:11 +0000</pubDate>
-        <enclosure url="http://sparkle-project.org/files/Sparkle%20Test%20App.zip" sparkle:version="0.0.2" length="107758" type="application/octet-stream" sparkle:dsaSignature="MCwCFCdoW13VBGJWIfIklKxQVyetgxE7AhQTVuY9uQT0KOV1UEk21epBsGZMPg==" />
+        <sparkle:releaseNotesLink>
+        	https://github.com/knutigro/AppReviews/releases/tag/0.0.2
+		</sparkle:releaseNotesLink>
+        <pubDate>Fri, 25 May 2015 08:00:00 +0000</pubDate>
+        <enclosure 
+        	url="https://github.com/knutigro/AppReviews/releases/download/0.0.2/App_Reviews.zip" 
+        	sparkle:version="0.0.2" 
+        	length="307253" 
+        	type="application/octet-stream" 
+        	/>
       </item>
-
-       <item>
-    <title>Version 2.0 (2 bugs fixed; 3 new features)</title>
-    <sparkle:releaseNotesLink>
-        http://you.com/app/2.0.html
-    </sparkle:releaseNotesLink>
-    <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-    <enclosure url="http://you.com/app/Your%20Great%20App%202.0.zip"
-               sparkle:version="0.0.3"
-               sparkle:dsaSignature="MC0CFBfeCa1JyW30nbkBwainOzrN6EQuAh="
-               length="1623481"
-               type="application/octet-stream" />
-	</item>
   </channel>
 </rss>
