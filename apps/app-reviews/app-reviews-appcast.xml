@@ -7,23 +7,23 @@
     <language>en</language>
     
       <item>
-        <title>Version 0.0.2</title>
+        <title>Version 0.0.21</title>
         <description>
           <![CDATA[
             <ul>
-              <li>Sparkle added for updating</li>
-              <li>Sharing option added to toolbar</li>
+              <li>Fixes bugs introduced in 0.0.2</li>
+              <li>Added Google Analytics for App Sessions</li>
             </ul>
           ]]>
         </description>
         <sparkle:releaseNotesLink>
-        	https://github.com/knutigro/AppReviews/releases/tag/0.0.2
+        	https://github.com/knutigro/AppReviews/releases/tag/0.0.21
 		</sparkle:releaseNotesLink>
-        <pubDate>Fri, 25 May 2015 08:00:00 +0000</pubDate>
+        <pubDate>Fri, 27 May 2015 08:00:00 +0000</pubDate>
         <enclosure 
         	url="https://github.com/knutigro/AppReviews/releases/download/0.0.2/App_Reviews.zip" 
-        	sparkle:version="0.0.2" 
-        	length="3072535" 
+        	sparkle:version="0.0.21" 
+        	length="9096693" 
         	type="application/octet-stream" 
         	/>
       </item>
