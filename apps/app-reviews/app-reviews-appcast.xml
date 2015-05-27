@@ -16,9 +16,6 @@
             </ul>
           ]]>
         </description>
-        <sparkle:releaseNotesLink>
-        	https://github.com/knutigro/AppReviews/releases/tag/0.0.22
-		</sparkle:releaseNotesLink>
         <pubDate>Fri, 27 May 2015 08:00:00 +0000</pubDate>
         <enclosure 
         	url="https://github.com/knutigro/AppReviews/releases/download/0.0.22/App_Reviews.zip" 
@@ -38,9 +35,6 @@
             </ul>
           ]]>
         </description>
-        <sparkle:releaseNotesLink>
-        	https://github.com/knutigro/AppReviews/releases/tag/0.0.21
-		</sparkle:releaseNotesLink>
         <pubDate>Fri, 26 May 2015 08:00:00 +0000</pubDate>
         <enclosure 
         	url="https://github.com/knutigro/AppReviews/releases/download/0.0.21/App_Reviews.zip" 
