@@ -19,13 +19,35 @@
         <sparkle:releaseNotesLink>
         	https://github.com/knutigro/AppReviews/releases/tag/0.0.21
 		</sparkle:releaseNotesLink>
-        <pubDate>Fri, 27 May 2015 08:00:00 +0000</pubDate>
+        <pubDate>Fri, 26 May 2015 08:00:00 +0000</pubDate>
         <enclosure 
-        	url="https://github.com/knutigro/AppReviews/releases/download/0.0.2/App_Reviews.zip" 
+        	url="https://github.com/knutigro/AppReviews/releases/download/0.0.21/App_Reviews.zip" 
         	sparkle:version="0.0.21" 
         	length="9096693" 
         	type="application/octet-stream" 
         	/>
+     </item>
+     <item>
+        <title>Version 0.0.22</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Added 3d party acknowledgements</li>
+              <li>Fixed bugs</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:releaseNotesLink>
+        	https://github.com/knutigro/AppReviews/releases/tag/0.0.22
+		</sparkle:releaseNotesLink>
+        <pubDate>Fri, 27 May 2015 08:00:00 +0000</pubDate>
+        <enclosure 
+        	url="https://github.com/knutigro/AppReviews/releases/download/0.0.22/App_Reviews.zip" 
+        	sparkle:version="0.0.22" 
+        	length="9112697" 
+        	type="application/octet-stream" 
+        	/>
       </item>
+
   </channel>
 </rss>
