@@ -30,12 +30,12 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
             description:"Godare jul på 24 dagar. Med recept på Crazy Americans, Favoritgodis, Fransk fröjd och Sockerkickar fixar du både julstämning och perfekta presenter på en och samma gång. "
         }]
     },{
-        name:"OSX Apps",
+        name:"Desktop Apps",
         content:
         [{
             name:"App Reviews",
-            url:"http://knutigro.github.io/apps/app-reviews",
-            description:"App Reviews easily collects reviews and ratings for your favourite apps. Super simple for iphone app developers to keep track of new reviews! App Reviews stay in your statusbar and once you get a new review you get notified. App Reviews is Open Source.",
+            url:"apps/app-reviews",
+            description:"App Reviews for Mac is an app that makes it super simple for Mac OS X users to keep track of user reviews for iPhone apps. App Reviews runs in the statusbar and notifies you when new reviews come in. App Reviews is Open Source.",
             image:"http://knutigro.github.io/apps/app-reviews/Images/appreviews-icon-512.png"
 
         }]
