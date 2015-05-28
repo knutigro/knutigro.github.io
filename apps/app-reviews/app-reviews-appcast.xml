@@ -5,7 +5,26 @@
     <link>http://knutigro.github.io/apps/app-reviews/app-reviews-appcast.xml</link>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
-    
+     <item>
+        <title>Version 0.0.3</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Now its possible to acces feedback form on website.</li>
+              <li>Launchscreen on startup until user opts out.</li>
+              <li>Crashlytics service added.</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Fri, 28 May 2015 08:00:00 +0000</pubDate>
+        <enclosure 
+        	url="https://github.com/knutigro/AppReviews/releases/download/0.0.3/App_Reviews.zip" 
+        	sparkle:version="8"
+        	sparkle:shortVersionString="0.0.3"  
+        	length="9599317" 
+        	type="application/octet-stream" 
+        	/>
+      </item>
      <item>
         <title>Version 0.0.22</title>
         <description>
