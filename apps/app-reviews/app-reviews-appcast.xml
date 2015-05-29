@@ -6,6 +6,24 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
      <item>
+        <title>Version 0.0.31</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>App can be launched automatically.</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Fri, 29 May 2015 08:00:00 +0000</pubDate>
+        <enclosure 
+        	url="https://github.com/knutigro/AppReviews/releases/download/0.0.31/App_Reviews.zip" 
+        	sparkle:version="9"
+        	sparkle:shortVersionString="0.0.31"  
+        	length="9608054" 
+        	type="application/octet-stream" 
+        	/>
+      </item>
+     <item>
         <title>Version 0.0.3</title>
         <description>
           <![CDATA[
