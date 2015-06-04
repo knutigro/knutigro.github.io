@@ -57,7 +57,7 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
         },{
             name:"Application Support",
             url:"https://github.com/knutigro/Xcode-Plugin-Application-Support",
-            description:"Application Support is a plugin for X-Code that adds a menubutton for opening Application Support folder. The plugin is part of Alcatraz package manager plugins. (http://alcatraz.io/)"
+            description:"Application Support is a plugin for X-Code that adds a menubutton for opening Application Support folder. The plugin is part of Alcatraz package manager. (http://alcatraz.io/)"
         }]
     }];
 
