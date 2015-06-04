@@ -41,7 +41,7 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
             name:"Kuling",
             url:"https://play.google.com/store/apps/details?id=com.cocmoc.kulinglite",
             image:"https://lh6.ggpht.com/aRvMnyauQb9O5tEQudK3XFztDjL6ZxCP4RY5HiQ16P8ZnKTFllk5LcphRNHkKHBoVw=w300",
-            description:"Kuling collects actual wind from a number of weather stations along the Swedish and Dansih coasts. Kuling is an Andoid widget."
+            description:"Kuling collects actual wind speed and direction from a number of weather stations along the Swedish and Dansih coasts. Kuling is an Andoid widget."
         }]
     },{
         name:"Open Source projects",
@@ -55,9 +55,9 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
             url:"https://github.com/knutigro/GDGeoData",
             description:"Swift wrapper for easy use of country and region data."
         },{
-            name:"Application Support, X-Code plugin",
+            name:"Application Support",
             url:"https://github.com/knutigro/Xcode-Plugin-Application-Support",
-            description:"This is a plugin for X-Code that adds a menubutton for opening Application Support folder. The plugin is part of Alcatraz package manager plugins. (http://alcatraz.io/)"
+            description:"Application Support is a plugin for X-Code that adds a menubutton for opening Application Support folder. The plugin is part of Alcatraz package manager plugins. (http://alcatraz.io/)"
         }]
     }];
 
