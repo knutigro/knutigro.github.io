@@ -6,9 +6,6 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
     // Libs
     $scope.lab_data =
     [{
-        name:"Mobile Apps",
-        content:
-        [{
         name:"Desktop Apps",
         content:
         [{
@@ -16,8 +13,11 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
             url:"apps/app-reviews",
             description:"App Reviews for Mac is an app that makes it super simple for Mac OS X users to keep track of user reviews for iPhone apps. App Reviews runs in the statusbar and notifies you when new reviews come in. App Reviews is Open Source.",
             image:"http://knutigro.github.io/apps/app-reviews/Images/appreviews-icon-512.png"
-
-        },{
+        }]
+    },{
+        name:"Mobile Apps",
+        content:
+        [{
             name:"Foap",
             url:"https://itunes.apple.com/us/app/foap/id521142420",
             image:"http://is4.mzstatic.com/image/pf/us/r30/Purple1/v4/86/50/a4/8650a4f6-99f6-01a7-3e55-cdd9e0454fcc/mzl.sijcvhrf.png",
@@ -41,9 +41,8 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
             name:"Kuling",
             url:"https://play.google.com/store/apps/details?id=com.cocmoc.kulinglite",
             image:"https://lh6.ggpht.com/aRvMnyauQb9O5tEQudK3XFztDjL6ZxCP4RY5HiQ16P8ZnKTFllk5LcphRNHkKHBoVw=w300",
-            description:"Kuling collects actual wind speed and direction from a number of weather stations along the Swedish and Dansih coasts. Kuling is an Android widget."
+            description:"Kuling collects actual wind from a number of weather stations along the Swedish and Dansih coasts. Kuling is an Andoid widget."
         }]
-    }]
     },{
         name:"Open Source projects",
         content:
