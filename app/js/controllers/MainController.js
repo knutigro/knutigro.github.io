@@ -9,6 +9,7 @@ myApp.controller('MainController',function($scope, $http, $routeParams){
         gravatar:"http://www.gravatar.com/avatar/b378e01af0a8181c1e637fc806e9f215.png?s=512",
         github:"https://github.com/knutigro",
         stack_overflow:"",
+        linkedin:"https://www.linkedin.com/in/knutingegrosland",
         twitter:"http://twitter.com/knutigro",
         isAvailable:true
     };
