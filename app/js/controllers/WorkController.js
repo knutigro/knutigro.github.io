@@ -9,6 +9,15 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
         name:"Mobile Apps",
         content:
         [{
+        name:"Desktop Apps",
+        content:
+        [{
+            name:"App Reviews",
+            url:"apps/app-reviews",
+            description:"App Reviews for Mac is an app that makes it super simple for Mac OS X users to keep track of user reviews for iPhone apps. App Reviews runs in the statusbar and notifies you when new reviews come in. App Reviews is Open Source.",
+            image:"http://knutigro.github.io/apps/app-reviews/Images/appreviews-icon-512.png"
+
+        },{
             name:"Foap",
             url:"https://itunes.apple.com/us/app/foap/id521142420",
             image:"http://is4.mzstatic.com/image/pf/us/r30/Purple1/v4/86/50/a4/8650a4f6-99f6-01a7-3e55-cdd9e0454fcc/mzl.sijcvhrf.png",
@@ -28,19 +37,15 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
             url:"https://itunes.apple.com/us/app/julgodiskalendern-sotare-julkalender/id481872459?mt=8",
             image:"http://is3.mzstatic.com/image/pf/us/r30/Purple/c6/9f/da/mzm.ihohbmor.png",
             description:"Godare jul på 24 dagar. Med recept på Crazy Americans, Favoritgodis, Fransk fröjd och Sockerkickar fixar du både julstämning och perfekta presenter på en och samma gång. "
+        },{
+            name:"Kuling",
+            url:"https://play.google.com/store/apps/details?id=com.cocmoc.kulinglite",
+            image:"https://lh6.ggpht.com/aRvMnyauQb9O5tEQudK3XFztDjL6ZxCP4RY5HiQ16P8ZnKTFllk5LcphRNHkKHBoVw=w300",
+            description:"Kuling collects actual wind speed and direction from a number of weather stations along the Swedish and Dansih coasts. Kuling is an Android widget."
         }]
+    }]
     },{
-        name:"Desktop Apps",
-        content:
-        [{
-            name:"App Reviews",
-            url:"apps/app-reviews",
-            description:"App Reviews for Mac is an app that makes it super simple for Mac OS X users to keep track of user reviews for iPhone apps. App Reviews runs in the statusbar and notifies you when new reviews come in. App Reviews is Open Source.",
-            image:"http://knutigro.github.io/apps/app-reviews/Images/appreviews-icon-512.png"
-
-        }]
-    },{
-        name:"Libraries",
+        name:"Open Source projects",
         content:
         [{
             name:"COBezierTableView",
@@ -50,6 +55,10 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
             name:"GDGeoData",
             url:"https://github.com/knutigro/GDGeoData",
             description:"Swift wrapper for easy use of country and region data."
+        },{
+            name:"Application Support, X-Code plugin",
+            url:"https://github.com/knutigro/Xcode-Plugin-Application-Support",
+            description:"This is a plugin for X-Code that adds a menubutton for opening Application Support folder. The plugin is part of Alcatraz package manager plugins. (http://alcatraz.io/)"
         }]
     }];
 
