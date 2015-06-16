@@ -6,28 +6,6 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
      <item>
-        <title>Version 0.0.32</title>
-        <description>
-          <![CDATA[
-            <ul>
-              <li>New Icon</li>
-              <li>Syncing reviews on iCloud</li>
-              <li>It is now possible to resize Review Window</li>
-              <li>Bug when resizing review cells fixed.</li>
-              <li>Shortcut keys for easier navigation.</li>
-            </ul>
-          ]]>
-        </description>
-        <pubDate>Wed, 17 Jun 2015 08:00:00 +0000</pubDate>
-        <enclosure 
-        	url="https://github.com/knutigro/AppReviews/releases/download/0.0.32/App_Reviews.zip" 
-        	sparkle:version="10"
-        	sparkle:shortVersionString="0.0.32"  
-        	length="10925535" 
-        	type="application/octet-stream" 
-        	/>
-      </item>
-     <item>
         <title>Version 0.0.31</title>
         <description>
           <![CDATA[
