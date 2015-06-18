@@ -40,7 +40,7 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
         },{
             name:"Kuling",
             url:"https://play.google.com/store/apps/details?id=com.cocmoc.kulinglite",
-            image:"https://lh6.ggpht.com/aRvMnyauQb9O5tEQudK3XFztDjL6ZxCP4RY5HiQ16P8ZnKTFllk5LcphRNHkKHBoVw=w300",
+            image:"https://lh3.googleusercontent.com/DPulmoGl2iSJM90wgdjuB9Ic9hXqoocRU0D74oM6dYF0VAMH1ONYw6wZtLnykyu-jw=w300",
             description:"Kuling collects actual wind speed and direction from a number of weather stations along the Swedish and Danish coasts. Kuling is an Andoid widget."
         }]
     },{
