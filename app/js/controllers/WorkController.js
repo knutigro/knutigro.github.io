@@ -11,7 +11,7 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
         [{
             name:"App Reviews",
             url:"apps/app-reviews",
-            description:"App Reviews for Mac is an app that makes it super simple for Mac OS X users to keep track of user reviews for iPhone apps. App Reviews runs in the statusbar and notifies you when new reviews come in. App Reviews is written in Swift the source code is available at GitHub with a GPL licence.",
+            description:"App Reviews for Mac is an app that makes it super simple for Mac OS X users to keep track of user reviews for iPhone apps. App Reviews runs in the statusbar and notifies you when new reviews come in. App Reviews is written in Swift and the source code is available at GitHub with a GPL licence.",
             image:"http://knutigro.github.io/apps/app-reviews/Images/appreviews-icon-512.png"
         }]
     },{
@@ -26,7 +26,7 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
             name:"Climbingapp",
             url:"https://itunes.apple.com/se/app/climbingapp/id574645575?mt=8",
             image:"http://is3.mzstatic.com/image/pf/us/r30/Purple5/v4/08/67/34/086734db-5895-c8b3-3656-9d096afd653d/pr_source.jpg",
-            description:"This is a really nice app for climbers! It will help you find your local climbing gym or elsewhere when traveling. We have more than 2000 gyms around the world in our database!"
+            description:"This is a really nice app for climbers! It will help you find your local climbing gym or elsewhere when traveling. We have more than 2000 gyms around the world in our database. Climbingapp also contains social aspects and possiblity to share boulder problems with other climbers."
         },{
             name:"Balder",
             url:"https://itunes.apple.com/se/app/balder/id470326852?mt=8",
