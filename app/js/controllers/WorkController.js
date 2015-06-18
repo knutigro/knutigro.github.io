@@ -21,7 +21,7 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
             name:"Foap",
             url:"https://itunes.apple.com/us/app/foap/id521142420",
             image:"http://is4.mzstatic.com/image/pf/us/r30/Purple1/v4/86/50/a4/8650a4f6-99f6-01a7-3e55-cdd9e0454fcc/mzl.sijcvhrf.png",
-            description:"With Foap you too can easily sell your photos to thousands of companies all over the world. Upload a photo and make it available for purchase at www.foap.com"
+            description:"With Foap you too can easily sell your photos to thousands of companies all over the world. Upload a photo and make it available for purchase at www.foap.com. Foap has been my main project and dayjob since 2001."
         },{
             name:"Climbingapp",
             url:"https://itunes.apple.com/se/app/climbingapp/id574645575?mt=8",
