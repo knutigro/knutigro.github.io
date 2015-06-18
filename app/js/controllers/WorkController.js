@@ -36,7 +36,7 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
             name:"Julgodiskalendern",
             url:"https://itunes.apple.com/us/app/julgodiskalendern-sotare-julkalender/id481872459?mt=8",
             image:"http://is3.mzstatic.com/image/pf/us/r30/Purple/c6/9f/da/mzm.ihohbmor.png",
-            description:"Godare jul på 24 dagar. Med recept på Crazy Americans, Favoritgodis, Fransk fröjd och Sockerkickar fixar du både julstämning och perfekta presenter på en och samma gång. Julgodikalendern has been ported to Swift for the upcomming release for 2015. "
+            description:"Godare jul på 24 dagar. Med recept på Crazy Americans, Favoritgodis, Fransk fröjd och Sockerkickar fixar du både julstämning och perfekta presenter på en och samma gång. Julgodiskalendern has been ported to Swift for the upcomming release for 2015. "
         },{
             name:"Kuling",
             url:"https://play.google.com/store/apps/details?id=com.cocmoc.kulinglite",
