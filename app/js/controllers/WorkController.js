@@ -39,7 +39,7 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
             description:"Godare jul på 24 dagar. Med recept på Crazy Americans, Favoritgodis, Fransk fröjd och Sockerkickar fixar du både julstämning och perfekta presenter på en och samma gång. Julgodiskalendern has been ported to Swift for the upcomming release for 2015. "
         },{
             name:"Kuling",
-            url:"https://play.google.com/store/apps/details?id=com.cocmoc.kulinglite",
+            url:"http://kuling.cocmoc.com",
             image:"https://lh3.googleusercontent.com/VaV2U3DwRKOITPjelvFrZKbPw66e8DOod-dzz1CHBlhL7CqN8PhVDNyCo0uCrueqyg=w300",
             description:"Kuling collects actual wind speed and direction from a number of weather stations along the Swedish and Danish coasts. Kuling is an Andoid widget."
         }]
