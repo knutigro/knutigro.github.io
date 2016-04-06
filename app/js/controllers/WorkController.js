@@ -23,6 +23,11 @@ myApp.controller('WorkController',function($scope, $http, $routeParams){
             image:"http://is4.mzstatic.com/image/pf/us/r30/Purple1/v4/86/50/a4/8650a4f6-99f6-01a7-3e55-cdd9e0454fcc/mzl.sijcvhrf.png",
             description:"With Foap you too can easily sell your photos to thousands of companies all over the world. Upload a photo and make it available for purchase at www.foap.com. Foap has been my main project and dayjob since 2001."
         },{
+            name:"Cirkus Imago",
+            url:"https://itunes.apple.com/nz/app/cirkus-imago/id865964969?mt=8",
+            image:"http://a3.mzstatic.com/nz/r30/Purple/v4/7e/35/79/7e357916-1705-cea0-fbc3-68cd41b01d11/icon350x350.jpeg",
+            description:"A game based on the childrens TV show with the same name."
+        },{            
             name:"Climbingapp",
             url:"https://itunes.apple.com/se/app/climbingapp/id574645575?mt=8",
             image:"http://is3.mzstatic.com/image/pf/us/r30/Purple5/v4/08/67/34/086734db-5895-c8b3-3656-9d096afd653d/pr_source.jpg",
